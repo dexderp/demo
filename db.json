@@ -4,13 +4,13 @@
       "id": 1,
       "userId": "A",
       "transaction": "txn1",
-      "amt": 5,
+      "amt": 5
     },
     {
       "id":2,
       "userId": "B",
       "transaction": "txn2",
-      "amt": 10,
+      "amt": 10
     },
     {
       "id":3,
@@ -18,20 +18,5 @@
       "transaction": "txn3",
       "amt": 2
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "fake transactions",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "fake transactions",
-      "postId": 2
-    }
-  ],
-  "profile": {
-    "name": "dexderp
-  }
+  ]
 }
