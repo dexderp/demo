@@ -2,12 +2,15 @@
   "posts": [
     { "id": "A", 
       "transactionId": "txn1", 
-      "coinAmt":5},
+      "coinAmt":5
+    },
     { "id": "B", 
       "transactionId": "txn2", 
-      "coinAmt":10},
+      "coinAmt":10
+    },
     { "id": "C", 
       "transactionId": "txn3", 
-      "coinAmt":12},
-  ]
+      "coinAmt":12
+    },
+  ],
 }
