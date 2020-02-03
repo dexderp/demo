@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
     { "id": "A", 
       "transactionId": "txn1", 
       "coinAmt":5
@@ -11,6 +10,5 @@
     { "id": "C", 
       "transactionId": "txn3", 
       "coinAmt":12
-    },
-  ],
-}
+    }
+]
