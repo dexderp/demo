@@ -1,7 +1,13 @@
 {
-  "transactions": [
-    { "id": "A", "transactionId": "txn1", "coinAmt":5},
-    { "id": "B", "transactionId": "txn2", "coinAmt":10},
-    { "id": "C", "transactionId": "txn3", "coinAmt":12},
+  "posts": [
+    { "id": "A", 
+      "transactionId": "txn1", 
+      "coinAmt":5},
+    { "id": "B", 
+      "transactionId": "txn2", 
+      "coinAmt":10},
+    { "id": "C", 
+      "transactionId": "txn3", 
+      "coinAmt":12},
   ]
 }
