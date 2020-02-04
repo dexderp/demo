@@ -1,22 +1,18 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "userId": "A",
-      "transaction": "txn1",
-      "amt": 5
-    },
-    {
-      "id":2,
-      "userId": "B",
-      "transaction": "txn2",
-      "amt": 10
-    },
-    {
-      "id":3,
-      "userId": "C",
-      "transaction": "txn3",
-      "amt": 2
-    }
-  ]
+  "id": 1,
+  "userId": "A",
+  "transaction": "txn1",
+  "amt": 5
+},
+{
+  "id":2,
+  "userId": "B",
+  "transaction": "txn2",
+  "amt": 10
+},
+{
+  "id":3,
+  "userId": "C",
+  "transaction": "txn3",
+  "amt": 2
 }
